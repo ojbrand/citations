@@ -36,7 +36,7 @@
       <h2><marquee behavior="scroll" direction="left">CITATIONS</marquee></h2>
       
 <h3>Government should</h3>
-<a href="https://www.state.gov/misc/415.htm">https://www.state.gov/misc/415.htm/a>
+<a href="https://www.state.gov/misc/415.htm">https://www.state.gov/misc/415.htm</a>
 <br>
 <a href="https://www.thedailybeast.com/isis-is-using-social-media-to-reach-you-its-new-audience">https://www.thedailybeast.com/isis-is-using-social-media-to-reach-you-its-new-audience</a>
 
