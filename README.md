@@ -48,4 +48,5 @@
 
 <h3>Images</h3>
 <a href="https://i2.wp.com/www.TranslatingCuba.com/images/ivan/InternetCensorship061208.gif">https://i2.wp.com/www.TranslatingCuba.com/images/ivan/InternetCensorship061208.gif</a>
+<br>
   <a href="https://cdn.cnn.com/cnnnext/dam/assets/170329120959-internet-privacy-illustration-full-169.jpg">https://cdn.cnn.com/cnnnext/dam/assets/170329120959-internet-privacy-illustration-full-169.jpg</a>
