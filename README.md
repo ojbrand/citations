@@ -1,4 +1,4 @@
-<h1>CITATIONS</h1>
+
 <body style="background-color: SteelBlue;">
       <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -33,4 +33,4 @@
                 overflow:auto;
         }
 </style>
-      <h2><marquee behavior="scroll" direction="left">Privacy</marquee></h2>
+      <h2><marquee behavior="scroll" direction="left">CITATIONS</marquee></h2>
