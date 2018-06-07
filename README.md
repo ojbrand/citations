@@ -1,5 +1,5 @@
 
-<body style="background-color: LightSteelBlue;">
+<body style="background-color:rgb(176, 196, 222);">
       <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 /* width */
