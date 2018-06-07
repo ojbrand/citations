@@ -37,13 +37,13 @@
       
 <h3>Government should</h3>
 <a href="https://www.state.gov/misc/415.htm">https://www.state.gov/misc/415.htm/a>
-
+<br>
 <a href="https://www.thedailybeast.com/isis-is-using-social-media-to-reach-you-its-new-audience">https://www.thedailybeast.com/isis-is-using-social-media-to-reach-you-its-new-audience</a>
 
 
 <h3>Government should not</h3>
 <a href="https://prestudentconversation.wordpress.com/2016/03/26/privacy-vs-protection-should-governments-have-the-power-to-access-our-personal-data/">https://prestudentconversation.wordpress.com/2016/03/26/privacy-vs-protection-should-governments-have-the-power-to-access-our-personal-data/</a>
-
+<br>
 <a href="https://www.theguardian.com/world/2013/dec/16/nsa-phone-surveillance-likely-unconstitutional-judge">https://www.theguardian.com/world/2013/dec/16/nsa-phone-surveillance-likely-unconstitutional-judge</a>
 
 
