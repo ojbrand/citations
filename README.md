@@ -35,14 +35,14 @@
 </style>
       <h2><marquee behavior="scroll" direction="left">CITATIONS</marquee></h2>
       
-      Government should
+<h3>Government should</h3>
 https://www.state.gov/misc/415.htm
 
 https://www.thedailybeast.com/isis-is-using-social-media-to-reach-you-its-new-audience
 
 
-Government should not
-https://prestudentconversation.wordpress.com/2016/03/26/privacy-vs-protection-should-governments-have-the-power-to-access-our-personal-data/
+<h3>Government should not</h3>
+<a href="https://prestudentconversation.wordpress.com/2016/03/26/privacy-vs-protection-should-governments-have-the-power-to-access-our-personal-data/"></a>
 
 https://www.theguardian.com/world/2013/dec/16/nsa-phone-surveillance-likely-unconstitutional-judge
 
